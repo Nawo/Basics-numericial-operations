@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Orgasm\mnis_lab1\main.cpp(157,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\Orgasm\mnis_lab1\main.cpp(158,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\Orgasm\mnis_lab1\main.cpp(169,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\Orgasm\mnis_lab1\main.cpp(170,9): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  mnis_lab1.vcxproj -> D:\Orgasm\mnis_lab1\x64\Debug\mnis_lab1.exe
